@@ -1,11 +1,12 @@
 {
-  "team": [
+  "berita": [
     {
-      "_id": 1,
-      "nama": "oke",
-      "no": "99",
-      "posisi": "gelandang",
-      "foto": "sip.jpg"
+     "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+    "judul": "Judul",
+    "sub_judul": "Sub Judul",
+    "banner": "banner.jpg",
+    "isi": "blablablabla",
+    "tanggal": "Thn-Bln-Tgl"
     }
   ]
 }
