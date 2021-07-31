@@ -36,41 +36,4 @@
     "link": "hahax.com"
     }
   ],
-  "team": [
-    {
-    "id": "d290f1ajksd222",
-    "nama": "Andul",
-    "posisi": "GK",
-    "no": "1",
-      "foto": "https://www.vi.nl/.imaging/mte/vinl-website-theme/760x506/dam/articles/2021/04/19/copyright-proshots-9748524.jpg/jcr:content/copyright-proshots-9748524.jpg"
-    },
-    {
-    "id": "d2asdasd87d222",
-    "nama": "Jumaidi",
-    "posisi": "CB",
-    "no": "88",
-      "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/haifoto/original/7014_7-momen-penting-nemanja-vidic-bersama-the-red-devils.jpg"
-    },
-    {
-    "id": "d290f1asdmm22",
-    "nama": "Parman",
-    "posisi": "AMF",
-    "no": "11",
-      "foto": "https://tmssl.akamaized.net/images/foto/normal/paul-scholes-manchester-united-2010-torjubel-jubel-1592814986-41941.jpg?lm=1592814960"
-    },
-    {
-    "id": "d290fqweklwq",
-    "nama": "asiap",
-    "posisi": "CW",
-    "no": "99",
-      "foto": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg"
-    },
-    {
-    "id": "d29qweqlnsa2",
-    "nama": "Embuh",
-    "posisi": "CW",
-    "no": "38",
-      "foto": "https://images.daznservices.com/di/library/GOAL/a6/9d/lionel-messi-barcelona-2020-21_1c0y4g3u6j0891q7zig4a5kwsw.jpg?t=1685164330&quality=100"
-    },
-  ],
 }
